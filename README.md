@@ -1,5 +1,4 @@
-Hello! I'm Chandrika
-I'm an undergraduate
+Hello! This is Chandrika
 - 👋 Hi, I’m @Chandrika-789
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
